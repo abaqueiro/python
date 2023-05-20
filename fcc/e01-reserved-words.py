@@ -1,3 +1,4 @@
+#!/usr/bin/python
 # comment till the end of line
 print( '=====================================================' )
 print( '    Reserved Words:' )
