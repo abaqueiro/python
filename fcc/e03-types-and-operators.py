@@ -45,7 +45,9 @@ print('5 * 5 returns', 5 * 5)
 print('25 / 5 returns', 25 / 5)
 # power
 print('2**8 returns',2 ** 8) # prints 256
-# residue
+# integer division
+print('5//2 returns', 5 // 2)
+# residue calculation or modulus
 print('5%2 returns', 5 % 2) # prints 1
 print()
 
