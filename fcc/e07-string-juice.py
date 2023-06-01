@@ -36,8 +36,8 @@ for planet in planetList :
 print()
 
 print('* operator on strings allows string repetition:')
-print( "'.' * 80' to build a 80 dots string" )
-print( '.' * 80 )
+print( "'.' * 60' to build a 60 dots string" )
+print( '.' * 60 )
 print()
 
 print('we can use the dir(method) to list the methods available in an instance of a class:')
